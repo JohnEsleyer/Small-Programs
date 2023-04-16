@@ -5,6 +5,8 @@ import (
 	"strings"
 )
 
+// A simple go program that prints all the vowels from the input string
+
 func main() {
 	var input string
 
